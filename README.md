@@ -9,9 +9,7 @@ Predictive modeling for diabetes and heart disease using Flask and machine learn
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 
 The Health Disease Predictor is a Flask web application that leverages machine learning models to predict the likelihood of diabetes and heart disease based on user-provided information.
@@ -86,10 +84,4 @@ If you plan to deploy the Health Disease Predictor, you can use a platform like 
     heroku open
     ```
 
-## Contributing
 
-Feel free to contribute to this project. If you have suggestions, found bugs, or want to add new features, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
