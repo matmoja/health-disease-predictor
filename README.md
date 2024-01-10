@@ -12,13 +12,13 @@ Predictive modeling for diabetes and heart disease using Flask and machine learn
   
 ## Introduction
 
-The Health Disease Predictor is a Flask web application that leverages machine learning models to predict the likelihood of diabetes and heart disease based on user-provided information.
+The Health Disease Predictor is a Flask web application that uses machine learning models to predict the likelihood of diabetes and heart disease based on user-provided information.
 
 ## Features
 
 - Diabetes prediction using a trained machine learning model.
 - Heart disease prediction using a trained machine learning model.
-- User-friendly web interface for input and result display.
+- User-interface web interface for input and result display.
 
 ## Installation
 
