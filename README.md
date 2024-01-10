@@ -36,11 +36,7 @@ To run the application locally, follow these steps:
     cd health-disease-predictor
     ```
 
-3. Install dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
